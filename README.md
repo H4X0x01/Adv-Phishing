@@ -53,9 +53,6 @@ When victim enter his credentials, you need to go to original website and use th
 [(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=U1nYsNLlFsw)
 
 ### SCREENSHOT ( KALI )
-![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
-![2](https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png)
-
 <br>
 <br>
 
